@@ -35,10 +35,10 @@ function makeInt(n) {
 
 // parse to int with base 10 
 function makeInt(n) {
-  return parseInt('n', 10)
+  return parseInt(n, 10)
 }
 
 // return NaN 
 function makeInt(n) {
-  return parseInt('n', 10)
+  return parseInt(n, 10)
 }
